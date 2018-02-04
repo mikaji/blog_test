@@ -3,4 +3,24 @@ layout: me
 title: me
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla lobortis placerat enim nec cursus. Ut et elit congue, facilisis dui id, efficitur velit. Integer faucibus velit varius arcu consectetur aliquam. Sed dui ante, euismod non malesuada vel, suscipit vel elit. Nullam tempor vehicula urna, sed dignissim ligula hendrerit in. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Proin et nisi eget nunc vehicula posuere. Nam elementum finibus auctor. Suspendisse a mauris et arcu molestie egestas sed et dolor. Nullam ut est tristique, iaculis tortor non, viverra felis. Praesent a tincidunt tellus, eget congue eros. Mauris non libero nec ipsum ultricies tincidunt sit amet nec ante. Duis molestie sem at ligula rhoncus viverra. Pellentesque sit amet tortor euismod, rhoncus lacus a, sodales odio. Proin ac convallis ipsum. Cras tincidunt mollis consequat.
+## Koji MIKAMI (mikaji)
+
+<!-- ### Identifications
+- [GitHub](https://github.com/mikaji)
+- [Twitter](https://twitter.com/mikaji_jp)
+- [Facebook](https://facebook.com/mikajijp)
+- [Instagram](https://www.instagram.com/mikaji_jp/)
+- [Qiita](https://qiita.com/mikaji)
+- [SpeakerDeck](https://speakerdeck.com/mikaji)
+- [Pinterest](https://www.pinterest.jp/mikaji_jp/)
+- [YouTube](https://www.youtube.com/channel/UC0LMykAkhYzjDTsQLIxT-qA) -->
+
+### History
+
+| Year | At |
+|:-----------|:------------|
+| 2013/04~2015/03       | B.E.in IT, Tokyo University of Agriculture and Technology  |
+| 2015/04~2017/03       | M.E.in IT, Tokyo University of Agriculture and Technology  |
+| 2015/10~2015/12       | Software Engineer at Basic Inc. |
+| 2015/12~2016/10       | Software Engineer at Cookpad Inc. |
+| 2017/04~              | Software Engineer at Recruit Holdings Co.,Ltd. & Recruit Marketing Partners Co.,Ltd. |

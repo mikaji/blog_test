@@ -1,16 +1,16 @@
 permalink: /:year:month:day/:title
 url: #Your url here
-baseurl: /project
+baseurl:
 
 # variables
-name: Your Site Name
-description: Your description here
+name: mikaji
+description: Software Engineer. Living in Tokyo.
 google_verification: null
 
 
 # File management
 include: [".htaccess"]
-exclude: ["README.md", "LICENSE"]
+exclude: ["README.md", "LICENSE", ".sass-cashe"]
 
 # Sass
 sass:
