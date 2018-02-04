@@ -1,11 +1,14 @@
-tag1:
-  name: tag1
+technology:
+  name: technology
 
-tag2:
-  name: tag2
+life:
+  name: life
 
-tag3:
-  name: tag3
+thinking:
+  name: thinking
 
-tag4:
-  name: tag4
+hack:
+  name: hack
+
+other:
+  name: other
